@@ -1,0 +1,10 @@
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.Properties.Resources.resources
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.csproj.GenerateResource.cache
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\bin\Debug\Deber2BJAC.exe.config
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\bin\Debug\Deber2BJAC.exe
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\bin\Debug\Deber2BJAC.pdb
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.FrmProductoBJAC.resources
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.exe
+C:\Users\Billy\source\repos\Deber2BJAC\Deber2BJAC\obj\Debug\Deber2BJAC.pdb
